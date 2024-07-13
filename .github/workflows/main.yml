@@ -31,11 +31,11 @@ jobs:
         run: dotnet test ./Y76.sln --no-build --verbosity normal
 
       - name: Publish Artifact
-        run: dotnet publish Y76.sln -c Release -o ./publish
+        run: dotnet publish Y76.sln -c Release -o ./publish/deploy.sh
 
 
       - name: Archive Published Artifacts
         uses: actions/upload-artifact@v2
         with:
           name: publish
-          path: ./publish
+          path: ./publish/deploy.sh
