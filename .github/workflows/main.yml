@@ -45,7 +45,7 @@ jobs:
       - name: Deploy Locally
         run: |
           # Define the path to the published folder
-          PUBLISHED_FOLDER="./publish"
+          PUBLISHED_FOLDER="./publish/deploy.sh"
 
   
           if [ -d "$PUBLISHED_FOLDER" ]; then
