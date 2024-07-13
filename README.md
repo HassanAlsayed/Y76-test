@@ -11,22 +11,33 @@ Prerequisites
 .NET Core SDK 8.0.302
 ASP.NET Web API
 SQL Server
+
 Getting Started
+
 Steps:
+
 1- Clone the Repository:
-git clone https://github.com/HassanAlsayed/Y76-test.git 
-cd Y76-test/y76.
+git clone https://github.com/HassanAlsayed/Y76-test.git
+cd Y76-test/y76
+
 2- Install Dependencies:
-dotnet restore.
+dotnet restore
+
 3- Setup Database:
-dotnet ef database update.
+dotnet ef database update
+
  Running the Application:
 1- Development Environment:
-dotnet run --project y76/y76.csproj.
-2- Production Build: 
-3-dotnet publish -c Release -o ./publish 
-cd ./publish && dotnet y76.dll.
+dotnet run --project y76/y76.csproj
+
+ Production Build: 
+dotnet publish -c Release -o ./publish
+cd ./publish
+dotnet y76.dll
+
 Testing: 
-dotnet test.
+dotnet test
+
 Local Deployment: 
-Execute the deployment script with ./publish/deploy.sh.
+./publish/deploy.sh
+
