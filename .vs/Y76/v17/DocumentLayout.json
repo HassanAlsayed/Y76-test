@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Y76\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|c:\\users\\user1\\desktop\\y76\\todo.uint\\deleteitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|solutionrelative:todo.uint\\deleteitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|c:\\users\\user1\\desktop\\y76\\todo.uint\\updateitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|solutionrelative:todo.uint\\updateitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|c:\\users\\user1\\desktop\\y76\\todo.uint\\mocktodoitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|solutionrelative:todo.uint\\mocktodoitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|c:\\users\\user1\\desktop\\y76\\todo.uint\\createitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|solutionrelative:todo.uint\\createitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\repository\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\repository\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\controller\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\controller\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\repository\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\repository\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|c:\\users\\user1\\desktop\\y76\\todo.uint\\getalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763345A-B574-4AB6-97C2-3D136B744618}|Todo.Uint\\Todo.Uint.csproj|solutionrelative:todo.uint\\getalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\extensions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\extensions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\y76.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\y76.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\entities\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\entities\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|c:\\users\\user1\\desktop\\y76\\y76\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73498F2A-78A6-4F44-96E4-F2B7CC8D6631}|Y76\\Y76.csproj|solutionrelative:y76\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\DeleteItemTests.cs",
+              "RelativeDocumentMoniker": "Todo.Uint\\DeleteItemTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\DeleteItemTests.cs",
+              "RelativeToolTip": "Todo.Uint\\DeleteItemTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:20:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\UpdateItemTests.cs",
+              "RelativeDocumentMoniker": "Todo.Uint\\UpdateItemTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\UpdateItemTests.cs",
+              "RelativeToolTip": "Todo.Uint\\UpdateItemTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:25:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\CreateItemTests.cs",
+              "RelativeDocumentMoniker": "Todo.Uint\\CreateItemTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\CreateItemTests.cs",
+              "RelativeToolTip": "Todo.Uint\\CreateItemTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:58:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Repository\\TodoItemRepository.cs",
+              "RelativeDocumentMoniker": "Y76\\Repository\\TodoItemRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Repository\\TodoItemRepository.cs",
+              "RelativeToolTip": "Y76\\Repository\\TodoItemRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:35:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockTodoItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\MockTodoItemsService.cs",
+              "RelativeDocumentMoniker": "Todo.Uint\\MockTodoItemsService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\MockTodoItemsService.cs",
+              "RelativeToolTip": "Todo.Uint\\MockTodoItemsService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwE0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:22:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Entities\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Y76\\Entities\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Entities\\TodoItem.cs",
+              "RelativeToolTip": "Y76\\Entities\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:43:48.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Controller\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Y76\\Controller\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Controller\\TodoItemsController.cs",
+              "RelativeToolTip": "Y76\\Controller\\TodoItemsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:23:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITodoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Repository\\ITodoItemRepository.cs",
+              "RelativeDocumentMoniker": "Y76\\Repository\\ITodoItemRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Repository\\ITodoItemRepository.cs",
+              "RelativeToolTip": "Y76\\Repository\\ITodoItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:34:17.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\GetAllTests.cs",
+              "RelativeDocumentMoniker": "Todo.Uint\\GetAllTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Todo.Uint\\GetAllTests.cs",
+              "RelativeToolTip": "Todo.Uint\\GetAllTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:22:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Extensions\\Startup.cs",
+              "RelativeDocumentMoniker": "Y76\\Extensions\\Startup.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Extensions\\Startup.cs",
+              "RelativeToolTip": "Y76\\Extensions\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:14:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Y76.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Y76.csproj",
+              "RelativeDocumentMoniker": "Y76\\Y76.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Y76.csproj",
+              "RelativeToolTip": "Y76\\Y76.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T17:51:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Entities\\TodoItemDto.cs",
+              "RelativeDocumentMoniker": "Y76\\Entities\\TodoItemDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Entities\\TodoItemDto.cs",
+              "RelativeToolTip": "Y76\\Entities\\TodoItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:26:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\appsettings.json",
+              "RelativeDocumentMoniker": "Y76\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\appsettings.json",
+              "RelativeToolTip": "Y76\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T18:05:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Y76\\Data\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Data\\TodoContext.cs",
+              "RelativeToolTip": "Y76\\Data\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:51:55.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Program.cs",
+              "RelativeDocumentMoniker": "Y76\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Y76\\Y76\\Program.cs",
+              "RelativeToolTip": "Y76\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:40:04.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
